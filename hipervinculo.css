@@ -1,0 +1,22 @@
+ul {
+    display: flex;
+        justify-content: center;
+        flex-direction: column;
+        
+}
+li{
+    background-color: rgb(105, 96, 223);
+    color: white;
+    padding: 20px;
+    
+    
+    
+}
+li{
+cursor: pointer;
+font-size: 18px;
+}
+li:hover {
+    background-color: white;
+    color: black;
+}
